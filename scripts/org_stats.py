@@ -14,6 +14,7 @@ Orgプロフィール用のREADMEを自動更新するスクリプト。
 import os
 import sys
 import json
+import math
 from datetime import datetime, timezone
 from urllib import request
 from collections import Counter
@@ -41,6 +42,8 @@ SATELLITE_GROUPS = {
 }
 OTHER_GROUP = "OTHERS"
 
+with open("scripts/github_colors.json", "r", encoding="utf-8") as f:
+    GITHUB_LANG_COLORS = json.load(f)
 
 # ========== GitHub API helper ==========
 def github_api(url: str):
@@ -99,10 +102,16 @@ def aggregate_languages(repos, owner: str):
 
 
 def save_language_svg(lang_counter, path: str):
+    """
+    言語カウンタから円グラフSVGを生成して保存する。
+    - ラベルを外に出して線でつなぐ
+    - GitHub公式に近い色を使う（ある分だけ）
+    """
     os.makedirs(os.path.dirname(path), exist_ok=True)
 
+    fig, ax = plt.subplots(figsize=(6, 4))
+
     if not lang_counter:
-        fig, ax = plt.subplots()
         ax.text(0.5, 0.5, "No language data", ha="center", va="center")
         fig.savefig(path, format="svg", bbox_inches="tight")
         return
@@ -111,9 +120,50 @@ def save_language_svg(lang_counter, path: str):
     labels = [k for k, _ in most_common]
     sizes = [v for _, v in most_common]
 
-    fig, ax = plt.subplots()
-    ax.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=90)
-    ax.axis("equal")
+    colors = [GITHUB_LANG_COLORS.get(lang, None) for lang in labels]
+
+    # まず普通にパイを描く
+    wedges, _ = ax.pie(
+        sizes,
+        colors=colors,
+        startangle=90,
+        radius=1.0
+    )
+
+    # ラベル＋線
+    kw = dict(arrowprops=dict(arrowstyle="-", lw=0.8),
+              va="center",
+              fontsize=8)
+    total = sum(sizes)
+    for i, w in enumerate(wedges):
+        ang = (w.theta2 + w.theta1) / 2.0
+        # 円周上の点
+        x = math.cos(math.radians(ang))
+        y = math.sin(math.radians(ang))
+        # 外に出す位置
+        x_text = 1.25 * x
+        y_text = 1.25 * y
+        ha = "left" if x > 0 else "right"
+        percent = sizes[i] / total * 100.0
+        ax.annotate(
+            f"{labels[i]} ({percent:.1f}%)",
+            xy=(x, y),
+            xytext=(x_text, y_text),
+            ha=ha,
+            **kw
+        )
+
+    ax.set_aspect("equal")
+
+    # 凡例も右に出すと読みやすい
+    ax.legend(
+        wedges,
+        labels,
+        title="Languages",
+        loc="center left",
+        bbox_to_anchor=(1.05, 0.0, 0.4, 1.0)
+    )
+
     fig.savefig(path, format="svg", bbox_inches="tight")
 
 
