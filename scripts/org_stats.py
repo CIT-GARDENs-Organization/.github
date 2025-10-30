@@ -42,8 +42,17 @@ SATELLITE_GROUPS = {
 }
 OTHER_GROUP = "OTHERS"
 
-with open("scripts/github_colors.json", "r", encoding="utf-8") as f:
-    GITHUB_LANG_COLORS = json.load(f)
+# ==== GitHub言語カラー表を読み込む ====
+GITHUB_LANG_COLORS = {}
+try:
+    with open(os.path.join(os.path.dirname(__file__), "github_colors.json"), "r", encoding="utf-8") as f:
+        color_data = json.load(f)
+        # colors.json の構造: { "C#": { "color": "#178600", "url": "..." }, ... }
+        GITHUB_LANG_COLORS = {k: v.get("color") for k, v in color_data.items() if isinstance(v, dict)}
+except Exception as e:
+    print(f"[WARN] failed to load github_colors.json: {e}")
+    GITHUB_LANG_COLORS = {}
+
 
 # ========== GitHub API helper ==========
 def github_api(url: str):
