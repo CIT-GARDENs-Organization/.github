@@ -1,0 +1,48 @@
+# .github/workflows/update-org-readme.yml
+name: Update org README
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # UTC 18:00 -> JST 03:00
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install matplotlib
+
+      - name: Run org stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ORG_NAME: "CIT-GARDENs-Organization"
+        run: |
+          mkdir -p assets
+          python scripts/org_stats.py
+
+      - name: Commit and push
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "gardens-bot"
+            git config user.email "bot@example.com"
+            git add README.md assets/langs.svg
+            git commit -m "chore: auto update org stats"
+            git push
+          else
+            echo "No changes"
+          fi
