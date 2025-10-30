@@ -14,4 +14,5 @@
 ## Language Mix (auto)
 上のスクリプトで生成されたSVGを表示します。
 
-![Languages](./assets/langs.svg)
+![Languages](../assets/langs.svg)
+

@@ -1,9 +1,9 @@
-# .github/workflows/update-org-readme.yml
-name: Update org README
+# .github/.github/workflows/update-org-readme.yml
+name: Update org profile README
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # UTC 18:00 -> JST 03:00
+    - cron: "0 18 * * *"  # UTC 18:00 = JST 03:00ごろ
   workflow_dispatch:
 
 jobs:
@@ -31,6 +31,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ORG_NAME: "CIT-GARDENs-Organization"
+          README_PATH: "profile/README.md"
+          LANG_SVG_PATH: "assets/langs.svg"
         run: |
           mkdir -p assets
           python scripts/org_stats.py
@@ -40,8 +42,8 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "gardens-bot"
             git config user.email "bot@example.com"
-            git add README.md assets/langs.svg
-            git commit -m "chore: auto update org stats"
+            git add profile/README.md assets/langs.svg
+            git commit -m "chore: auto update org profile"
             git push
           else
             echo "No changes"
