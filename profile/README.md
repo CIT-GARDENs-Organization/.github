@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2025-10-30T18:15:39Z
+最終更新: 2025-10-31T18:16:14Z
 
 - リポジトリ総数: **9**
 - 直近30日で更新があったリポジトリ: **5**
@@ -42,8 +42,8 @@
 | @takebmb | 171 |
 | @s21a2018 | 55 |
 | @mkyt0230 | 21 |
+| @rhoggs-bot-test-account | 3 |
 | @waarrk | 2 |
-| @rhoggs-bot-test-account | 2 |
 | @usami0602 | 1 |
 | @tairokataoka | 1 |
 
