@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2025-11-04T18:16:08Z
+最終更新: 2025-11-05T18:15:51Z
 
 - リポジトリ総数: **8**
 - 直近30日で更新があったリポジトリ: **4**
@@ -14,8 +14,8 @@
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-11-04 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2025-11-04 | ⭐ 0 | C |
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-11-03 | ⭐ 0 | Python |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2025-10-28 | ⭐ 0 | Python |
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-09-19 | ⭐ 1 | TypeScript |
@@ -39,8 +39,8 @@
 |------|----------------|
 | @takebmb | 143 |
 | @s21a2018 | 54 |
+| @rhoggs-bot-test-account | 8 |
 | @mkyt0230 | 8 |
-| @rhoggs-bot-test-account | 7 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
 
