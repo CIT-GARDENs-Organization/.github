@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2025-11-06T18:16:36Z
+最終更新: 2025-11-07T18:15:34Z
 
 - リポジトリ総数: **8**
 - 直近30日で更新があったリポジトリ: **4**
@@ -14,8 +14,8 @@
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-11-05 | ⭐ 0 | Python |
-| [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2025-11-04 | ⭐ 0 | C |
+| [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2025-11-07 | ⭐ 0 | C |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-11-06 | ⭐ 0 | Python |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2025-10-28 | ⭐ 0 | Python |
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-09-19 | ⭐ 1 | TypeScript |
@@ -26,7 +26,7 @@
 ### 🗣️ Language Summary (org-wide)
 | Language | Bytes | Ratio |
 |----------|-------|-------|
-| C | 410476 | 56.8% |
+| C | 410576 | 56.8% |
 | Python | 264458 | 36.6% |
 | TypeScript | 38995 | 5.4% |
 | CSS | 8192 | 1.1% |
@@ -38,8 +38,8 @@
 | User | Contributions |
 |------|----------------|
 | @takebmb | 143 |
-| @s21a2018 | 54 |
-| @rhoggs-bot-test-account | 9 |
+| @s21a2018 | 55 |
+| @rhoggs-bot-test-account | 10 |
 | @mkyt0230 | 8 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
