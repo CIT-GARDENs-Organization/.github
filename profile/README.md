@@ -6,19 +6,19 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2025-12-03T18:17:47Z
+最終更新: 2025-12-04T18:18:02Z
 
 - リポジトリ総数: **8**
-- 直近30日で更新があったリポジトリ: **2**
+- 直近30日で更新があったリポジトリ: **3**
 
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-12-02 | ⭐ 0 | Python |
+| [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-12-04 | ⭐ 1 | TypeScript |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2025-12-03 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2025-11-11 | ⭐ 0 | C |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2025-10-28 | ⭐ 0 | Python |
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
-| [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-09-19 | ⭐ 1 | TypeScript |
 | [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC) | 2025-09-10 | ⭐ 0 | C |
 | [cigs-packet-analyzer](https://github.com/CIT-GARDENs-Organization/cigs-packet-analyzer) | 2025-08-31 | ⭐ 0 | Python |
 | [MeasurementReceiverSensitivity_Receiveside](https://github.com/CIT-GARDENs-Organization/MeasurementReceiverSensitivity_Receiveside) | 2025-03-12 | ⭐ 0 | Python |
@@ -39,8 +39,8 @@
 |------|----------------|
 | @takebmb | 143 |
 | @s21a2018 | 55 |
-| @rhoggs-bot-test-account | 36 |
-| @mkyt0230 | 8 |
+| @rhoggs-bot-test-account | 37 |
+| @mkyt0230 | 12 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
 
