@@ -6,17 +6,17 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-01-25T18:16:34Z
+最終更新: 2026-01-26T18:20:57Z
 
 - リポジトリ総数: **8**
-- 直近30日で更新があったリポジトリ: **1**
+- 直近30日で更新があったリポジトリ: **2**
 
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-01-24 | ⭐ 0 | Python |
+| [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-01-26 | ⭐ 0 | C |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-01-25 | ⭐ 0 | Python |
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-12-04 | ⭐ 1 | TypeScript |
-| [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2025-11-11 | ⭐ 0 | C |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2025-10-28 | ⭐ 0 | Python |
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
 | [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC) | 2025-09-10 | ⭐ 0 | C |
@@ -26,7 +26,7 @@
 ### 🗣️ Language Summary (org-wide)
 | Language | Bytes | Ratio |
 |----------|-------|-------|
-| C | 410576 | 56.8% |
+| C | 410577 | 56.8% |
 | Python | 264458 | 36.6% |
 | TypeScript | 38995 | 5.4% |
 | CSS | 8192 | 1.1% |
@@ -38,8 +38,8 @@
 | User | Contributions |
 |------|----------------|
 | @takebmb | 143 |
-| @rhoggs-bot-test-account | 89 |
-| @s21a2018 | 55 |
+| @rhoggs-bot-test-account | 90 |
+| @s21a2018 | 56 |
 | @mkyt0230 | 13 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
