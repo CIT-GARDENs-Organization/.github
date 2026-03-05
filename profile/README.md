@@ -6,16 +6,17 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-03-04T18:33:14Z
+最終更新: 2026-03-05T19:06:37Z
 
-- リポジトリ総数: **9**
-- 直近30日で更新があったリポジトリ: **2**
+- リポジトリ総数: **10**
+- 直近30日で更新があったリポジトリ: **3**
 
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-03-03 | ⭐ 0 | Python |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-03-04 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-02-27 | ⭐ 0 | C |
+| [MMJ_CM4_setup](https://github.com/CIT-GARDENs-Organization/MMJ_CM4_setup) | 2026-02-13 | ⭐ 0 | - |
 | [MMJ_SW_412_MMJ_ANT_Analize](https://github.com/CIT-GARDENs-Organization/MMJ_SW_412_MMJ_ANT_Analize) | 2026-01-31 | ⭐ 0 | - |
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-12-04 | ⭐ 1 | TypeScript |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2025-10-28 | ⭐ 0 | Python |
@@ -34,6 +35,7 @@
 | TypeScript | 38995 | 1.5% |
 | CSS | 8192 | 0.3% |
 | JavaScript | 528 | 0.0% |
+| Shell | 135 | 0.0% |
 
 ※ グラフ版は `../assets/langs.svg` を参照
 
@@ -41,15 +43,16 @@
 | User | Contributions |
 |------|----------------|
 | @takebmb | 144 |
-| @rhoggs-bot-test-account | 127 |
+| @rhoggs-bot-test-account | 128 |
 | @s21a2018 | 57 |
+| @Kubuny | 14 |
 | @mkyt0230 | 13 |
-| @Kubuny | 11 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
 
 ### 🛰️ Satellite Projects
 #### MOMIJI
+- [MMJ_CM4_setup](https://github.com/CIT-GARDENs-Organization/MMJ_CM4_setup)
 - [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC)
 - [MMJ_SW_412_MMJ_ANT_Analize](https://github.com/CIT-GARDENs-Organization/MMJ_SW_412_MMJ_ANT_Analize)
 
