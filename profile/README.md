@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-03-14T18:22:40Z
+最終更新: 2026-03-15T18:24:22Z
 
 - リポジトリ総数: **10**
 - 直近30日で更新があったリポジトリ: **3**
@@ -14,8 +14,8 @@
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-03-14 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-03-14 | ⭐ 0 | C |
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-03-13 | ⭐ 0 | Python |
 | [MMJ_SW_417_MMJ_CM4_setup](https://github.com/CIT-GARDENs-Organization/MMJ_SW_417_MMJ_CM4_setup) | 2026-02-13 | ⭐ 0 | - |
 | [MMJ_SW_412_MMJ_ANT_Analize](https://github.com/CIT-GARDENs-Organization/MMJ_SW_412_MMJ_ANT_Analize) | 2026-01-31 | ⭐ 0 | - |
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-12-04 | ⭐ 1 | TypeScript |
@@ -43,7 +43,7 @@
 | User | Contributions |
 |------|----------------|
 | @takebmb | 144 |
-| @rhoggs-bot-test-account | 137 |
+| @rhoggs-bot-test-account | 138 |
 | @s21a2018 | 59 |
 | @Kubuny | 14 |
 | @mkyt0230 | 13 |
