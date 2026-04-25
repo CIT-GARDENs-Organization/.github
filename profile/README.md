@@ -6,17 +6,16 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-04-24T18:35:57Z
+最終更新: 2026-04-25T18:34:44Z
 
-- リポジトリ総数: **11**
-- 直近30日で更新があったリポジトリ: **3**
+- リポジトリ総数: **10**
+- 直近30日で更新があったリポジトリ: **2**
 
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-04-23 | ⭐ 0 | Python |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-04-24 | ⭐ 0 | Python |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2026-04-19 | ⭐ 0 | Python |
-| [SON_SW_044_TMP_PIC](https://github.com/CIT-GARDENs-Organization/SON_SW_044_TMP_PIC) | 2026-04-18 | ⭐ 0 | C |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-03-14 | ⭐ 0 | C |
 | [MMJ_SW_417_MMJ_CM4_setup](https://github.com/CIT-GARDENs-Organization/MMJ_SW_417_MMJ_CM4_setup) | 2026-02-13 | ⭐ 0 | - |
 | [MMJ_SW_412_MMJ_ANT_Analize](https://github.com/CIT-GARDENs-Organization/MMJ_SW_412_MMJ_ANT_Analize) | 2026-01-31 | ⭐ 0 | - |
@@ -24,15 +23,16 @@
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
 | [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC) | 2025-09-10 | ⭐ 0 | C |
 | [cigs-packet-analyzer](https://github.com/CIT-GARDENs-Organization/cigs-packet-analyzer) | 2025-08-31 | ⭐ 0 | Python |
+| [MeasurementReceiverSensitivity_Receiveside](https://github.com/CIT-GARDENs-Organization/MeasurementReceiverSensitivity_Receiveside) | 2025-03-12 | ⭐ 0 | Python |
 
 ### 🗣️ Language Summary (org-wide)
 | Language | Bytes | Ratio |
 |----------|-------|-------|
-| TeX | 1303115 | 45.9% |
-| C | 606336 | 21.4% |
-| HTML | 538954 | 19.0% |
-| Python | 340511 | 12.0% |
-| TypeScript | 38995 | 1.4% |
+| TeX | 1303115 | 49.9% |
+| HTML | 538954 | 20.6% |
+| C | 416583 | 15.9% |
+| Python | 306944 | 11.7% |
+| TypeScript | 38995 | 1.5% |
 | CSS | 8192 | 0.3% |
 | JavaScript | 528 | 0.0% |
 | Shell | 135 | 0.0% |
@@ -42,10 +42,9 @@
 ### 🧑‍💻 Top Contributors (all repos)
 | User | Contributions |
 |------|----------------|
-| @rhoggs-bot-test-account | 178 |
+| @rhoggs-bot-test-account | 179 |
 | @takebmb | 144 |
 | @s21a2018 | 59 |
-| @10a23e4d | 42 |
 | @Kubuny | 14 |
 | @mkyt0230 | 13 |
 | @waarrk | 2 |
@@ -65,7 +64,6 @@
 - [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC)
 - [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python)
 - [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public)
-- [SON_SW_044_TMP_PIC](https://github.com/CIT-GARDENs-Organization/SON_SW_044_TMP_PIC)
 
 <!-- ORG-STATS:END -->
 
