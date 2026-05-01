@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-04-30T19:04:24Z
+最終更新: 2026-05-01T18:55:42Z
 
 - リポジトリ総数: **10**
 - 直近30日で更新があったリポジトリ: **2**
@@ -14,7 +14,7 @@
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-04-29 | ⭐ 0 | Python |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-04-30 | ⭐ 0 | Python |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2026-04-19 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-03-14 | ⭐ 0 | C |
 | [MMJ_SW_417_MMJ_CM4_setup](https://github.com/CIT-GARDENs-Organization/MMJ_SW_417_MMJ_CM4_setup) | 2026-02-13 | ⭐ 0 | - |
@@ -42,7 +42,7 @@
 ### 🧑‍💻 Top Contributors (all repos)
 | User | Contributions |
 |------|----------------|
-| @rhoggs-bot-test-account | 184 |
+| @rhoggs-bot-test-account | 185 |
 | @takebmb | 144 |
 | @s21a2018 | 59 |
 | @Kubuny | 14 |
