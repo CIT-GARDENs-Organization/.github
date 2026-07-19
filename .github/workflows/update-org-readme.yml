@@ -3,7 +3,7 @@ name: Update org profile README
 
 on:
   schedule:
-    - cron: "0 18 * * *"  # UTC 18:00 = JST 03:00ごろ
+    - cron: "0 15 1 * *"  # 月一（1日）00:00 JST (UTC 15:00)
   workflow_dispatch:
 
 jobs:
