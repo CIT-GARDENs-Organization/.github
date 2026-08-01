@@ -6,7 +6,7 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-07-18T18:44:11Z
+最終更新: 2026-08-01T16:03:36Z
 
 - リポジトリ総数: **10**
 - 直近30日で更新があったリポジトリ: **1**
@@ -14,7 +14,7 @@
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-07-17 | ⭐ 0 | Python |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-07-19 | ⭐ 0 | Python |
 | [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC) | 2026-05-16 | ⭐ 0 | C |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2026-04-19 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-03-14 | ⭐ 0 | C |
@@ -42,11 +42,11 @@
 ### 🧑‍💻 Top Contributors (all repos)
 | User | Contributions |
 |------|----------------|
-| @rhoggs-bot-test-account | 263 |
+| @rhoggs-bot-test-account | 264 |
 | @takebmb | 144 |
 | @s21a2018 | 59 |
+| @mkyt0230 | 14 |
 | @Kubuny | 14 |
-| @mkyt0230 | 13 |
 | @waarrk | 2 |
 | @tairokataoka | 1 |
 
