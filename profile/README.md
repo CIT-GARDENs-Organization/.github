@@ -6,15 +6,16 @@
 
 ## Organization Activity
 <!-- ORG-STATS:START -->
-最終更新: 2026-08-01T16:03:36Z
+最終更新: 2026-09-01T18:15:41Z
 
-- リポジトリ総数: **10**
+- リポジトリ総数: **11**
 - 直近30日で更新があったリポジトリ: **1**
 
 ### 📦 最近動いたリポジトリ
 | Repo | Pushed | Stars | Lang |
 |------|--------|-------|------|
-| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-07-19 | ⭐ 0 | Python |
+| [opendata](https://github.com/CIT-GARDENs-Organization/opendata) | 2026-09-01 | ⭐ 0 | - |
+| [.github](https://github.com/CIT-GARDENs-Organization/.github) | 2026-08-01 | ⭐ 0 | Python |
 | [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC) | 2026-05-16 | ⭐ 0 | C |
 | [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python) | 2026-04-19 | ⭐ 0 | Python |
 | [MMJ_SW_053_CIGS_PIC](https://github.com/CIT-GARDENs-Organization/MMJ_SW_053_CIGS_PIC) | 2026-03-14 | ⭐ 0 | C |
@@ -23,7 +24,6 @@
 | [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public) | 2025-12-04 | ⭐ 1 | TypeScript |
 | [BOSS_PIC_simulator](https://github.com/CIT-GARDENs-Organization/BOSS_PIC_simulator) | 2025-10-15 | ⭐ 1 | Python |
 | [cigs-packet-analyzer](https://github.com/CIT-GARDENs-Organization/cigs-packet-analyzer) | 2025-08-31 | ⭐ 0 | Python |
-| [MeasurementReceiverSensitivity_Receiveside](https://github.com/CIT-GARDENs-Organization/MeasurementReceiverSensitivity_Receiveside) | 2025-03-12 | ⭐ 0 | Python |
 
 ### 🗣️ Language Summary (org-wide)
 | Language | Bytes | Ratio |
@@ -42,12 +42,12 @@
 ### 🧑‍💻 Top Contributors (all repos)
 | User | Contributions |
 |------|----------------|
-| @rhoggs-bot-test-account | 264 |
+| @rhoggs-bot-test-account | 265 |
 | @takebmb | 144 |
 | @s21a2018 | 59 |
 | @mkyt0230 | 14 |
 | @Kubuny | 14 |
-| @waarrk | 2 |
+| @waarrk | 7 |
 | @tairokataoka | 1 |
 
 ### 🛰️ Satellite Projects
@@ -64,6 +64,7 @@
 - [MIS_MCU_CCSC](https://github.com/CIT-GARDENs-Organization/MIS_MCU_CCSC)
 - [MIS_MCU_python](https://github.com/CIT-GARDENs-Organization/MIS_MCU_python)
 - [next-pass-viewer-public](https://github.com/CIT-GARDENs-Organization/next-pass-viewer-public)
+- [opendata](https://github.com/CIT-GARDENs-Organization/opendata)
 
 <!-- ORG-STATS:END -->
 
